@@ -21,6 +21,7 @@ Environment
  - JQuery : 3.2.1
  - Bootstrap : 3.3.7
  - Java template engine : 1.5.6
+ - Database : MySQL Workbench Community (GPL)
 
 **pom.xml**
 -------------------
