@@ -7,9 +7,8 @@ Based on **java**，dynamically request **DOUYU's( a live web site )** barrage i
 
 Screenshots
 -------------
-![image](https://github.com/lslxy1021/DYB/images/dmchart.png)
-![image](https://github.com/lslxy1021/DYB/images/dmtable.png)
-
+![image](http://github.com/lslxy1021/DYB/raw/master/images/dmchart.png)
+![image](http://github.com/lslxy1021/DYB/raw/master/images/dmtable.png)
 Environment
 -------------
 
