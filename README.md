@@ -138,3 +138,4 @@ Environment
 > - To create this project,File->new->project->Spring Initializr.
 > - Before launching the project,you need to change roomId in StartFirst.java.
 > - The current page must be active, otherwise it will get incorrect results
+> - You may need to delete "target" file to avoid possible error.
