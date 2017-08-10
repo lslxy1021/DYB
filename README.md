@@ -5,6 +5,11 @@
 
 Based on **java**，dynamically request **DOUYU's( a live web site )** barrage information.
 
+Screenshots
+-------------
+![image](https://github.com/lslxy1021/DYB/images/dmchart.png)
+![image](https://github.com/lslxy1021/DYB/images/dmtable.png)
+
 Environment
 -------------
 
