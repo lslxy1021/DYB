@@ -1,0 +1,14 @@
+server:
+  port: 8081
+spring:
+  thymeleaf:
+    mode: HTML5
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/test?useSSL=false
+    username: test001
+    password: test001
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false

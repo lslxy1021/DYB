@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8" />
+<title>实时刷新的曲线图</title>
+<script type="text/javascript" th:src="@{/js/jquery-3.2.1.min.js}"></script>
+<script type="text/javascript" th:src="@{/js/highcharts.js}"></script>
+<script type="text/javascript" src="@{/js/bootstrap.min.js}"></script>
+<link rel="stylesheet"  th:href="@{/css/bootstrap.min.css}"/>
+</head>
+<body onload="get()">
+<div id="container" style="min-width:400px;height:400px"></div>
+<script type="text/javascript" th:src="@{/js/drawcharts.js}"></script>
+<table id="content" class="table table-hover">
+    <thead>
+    <tr style="text-align: center">
+        <td class="active">Number</td>
+        <td class="info">Time</td>
+        <td class="success">Name</td>
+        <td class="warning">Txt</td>
+    </tr>
+    </thead>
+    <tbody id="contentBody">
+    </tbody>
+</table>
+</body>
+</html>
