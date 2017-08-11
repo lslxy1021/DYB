@@ -22,6 +22,11 @@ Environment
  - Bootstrap : 3.3.7
  - Java template engine : Thymeleaf 1.5.6
  - Database : MySQL Workbench Community (GPL)
+ 
+Start
+-------------
+ - Run DanMuApplication.java
+ - Enter url in the browser : localhost:8081/danmu.
 
 **pom.xml**
 -------------------
@@ -137,6 +142,7 @@ Environment
 > **Note:**
 
 > - To create this project,File->new->project->Spring Initializr.
-> - Before launching the project,you need to change roomId in StartFirst.java.
+> - You need to change roomId in StartFirst.java 
+> - Create a database called "test" in MySQL before start the project.
 > - The current page must be active, otherwise it will get incorrect results
 > - You may need to delete "target" file to avoid possible error.
