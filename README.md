@@ -1,6 +1,6 @@
 # DYB
 
-**Demo for DOUYU barrages' info**
+**Demo for DOUYU barrages info**
 ===================
 
 Based on **java**，dynamically request **DOUYU's( a live web site )** barrage information.
