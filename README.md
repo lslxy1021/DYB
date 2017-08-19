@@ -2,7 +2,7 @@
 **斗鱼弹幕信息获取**
 ===================
 
-Based on **java**，dynamically request **DOUYU's( a live web site )** barrage information.
+Based on **java** and Douyu official Api ，dynamically request **DOUYU's( a live web site )** barrage information.
 
 Screenshots
 -------------
